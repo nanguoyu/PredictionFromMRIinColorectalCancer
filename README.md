@@ -3,9 +3,8 @@
 This project introduces our works to study if we can predict the outcome of specific operations for 
 the patients with colorectal cancer. It is the code of Computational Science Project Course in 2021 Fall.
 
-Author: Dong Wang, Yu Zhu.
+Author: Dong Wang, Yu Zhu. Supervisor: Filip Malmberg.
 
-> We are cleaning our codes.
 
 The workflow of this project contains,
 
@@ -19,5 +18,11 @@ The workflow of this project contains,
   - ImagePreprocessingFeatureExtraction.ipynb
 
 - Feature selection
+  - FeatureSelectionPredictionModel.ipynb
 
 - Prediction model
+  - FeatureSelectionPredictionModel.ipynb
+  
+**Note** We would not publish data.
+
+> We are going to update FeatureSelectionPredictionModel.ipynb soon.
